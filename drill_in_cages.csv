@@ -1,0 +1,116 @@
+"","Mound_ID","Shell_ID","Cage_ID","Cage_type","Mound_Num","Site","Sample_dat","Num_spat","Length_1","Length_2","Length_3","Length_4","Length_5","Crabs","Drills","Mound_Treat","Deployment","treatbi","obs","Drillspa"
+"1","ClamShoal208",131191,"13119","Small Mesh",208,"Clam Shoal","FAll_2010",8,36,24.9,40,23.9,34.4,1,0,"Late Small","Late","New",1,0
+"2","ClamShoal208",899231,"89923","Open",208,"Clam Shoal","FAll_2010",3,18.1,13.9,9.3,NA,NA,1,0,"Late Small","Late","New",2,0
+"3","ClamShoal208",955853,"95585","Roof",208,"Clam Shoal","FAll_2010",4,22.8,34.1,26.6,15.5,NA,0,0,"Late Small","Late","New",3,0
+"4","ClamShoal208",131191,"13119","Small Mesh",208,"Clam Shoal","Spring_2011",3,56.9,33.7,60.5,NA,NA,7,3,"Late Small","Late","New",4,1
+"5","ClamShoal208",655751,"65575","Control",208,"Clam Shoal","Spring_2011",4,60.4,53.4,33.4,55.2,NA,0,0,"Late Small","Late","New",5,0
+"6","ClamShoal208",829421,"82942","Large Mesh",208,"Clam Shoal","FAll_2010",2,30.8,24.6,NA,NA,NA,1,0,"Late Small","Late","New",6,0
+"7","ClamShoal208",829421,"82942","Large Mesh",208,"Clam Shoal","Spring_2011",2,51.5,48.1,NA,NA,NA,1,0,"Late Small","Late","New",7,0
+"8","ClamShoal208",899231,"89923","Open",208,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,0,0,"Late Small","Late","New",8,0
+"9","ClamShoal208",955863,"95586","Roof",208,"Clam Shoal","Spring_2011",3,37.6,54.5,57,NA,NA,0,4,"Late Small","Late","New",9,1
+"10","ClamShoal208",655751,"65575","Control",208,"Clam Shoal","FAll_2010",4,32.6,31.9,28.5,21.9,NA,1,0,"Late Small","Late","New",10,0
+"11","ClamShoal209",124703,"12470","Open",209,"Clam Shoal","FAll_2010",23,17.4,9.4,15,16.5,8.2,0,0,"Late Large","Late","New",11,0
+"12","ClamShoal209",146691,"14669","Roof",209,"Clam Shoal","FAll_2010",4,34.5,18.6,11.4,16.3,NA,0,0,"Late Large","Late","New",12,0
+"13","ClamShoal209",124701,"12470","Open",209,"Clam Shoal","Spring_2011",3,25.1,41.8,33.3,NA,NA,0,0,"Late Large","Late","New",13,0
+"14","ClamShoal209",145561,"14556","Large Mesh",209,"Clam Shoal","FAll_2010",4,13.4,14,8.3,11.2,NA,1,0,"Late Large","Late","New",14,0
+"15","ClamShoal209",145561,"14556","Large Mesh",209,"Clam Shoal","Spring_2011",1,26.4,NA,NA,NA,NA,5,0,"Late Large","Late","New",15,0
+"16","ClamShoal209",117881,"11788","Control",209,"Clam Shoal","Spring_2011",1,45.6,NA,NA,NA,NA,1,3,"Late Large","Late","New",16,1
+"17","ClamShoal209",117881,"11788","Control",209,"Clam Shoal","FAll_2010",2,26.6,17.1,NA,NA,NA,1,0,"Late Large","Late","New",17,0
+"18","ClamShoal209",129141,"12914","Small Mesh",209,"Clam Shoal","FAll_2010",20,19.9,23.4,16.1,10.6,17.3,0,0,"Late Large","Late","New",18,0
+"19","ClamShoal209",146691,"14669","Roof",209,"Clam Shoal","Spring_2011",2,41.9,19.2,NA,NA,NA,0,0,"Late Large","Late","New",19,0
+"20","ClamShoal209",129141,"12914","Small Mesh",209,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,7,0,"Late Large","Late","New",20,0
+"21","ClamShoal210",883771,"88377","Roof",210,"Clam Shoal","FAll_2010",3,19.4,17.7,10.4,NA,NA,3,2,"Late Small","Late","New",21,1
+"22","ClamShoal210",883771,"88377","Roof",210,"Clam Shoal","Spring_2011",5,24.4,32.2,35.2,43.5,36.8,0,0,"Late Small","Late","New",22,0
+"23","ClamShoal210",876121,"87612","Control",210,"Clam Shoal","FAll_2010",0,NA,NA,NA,NA,NA,1,0,"Late Small","Late","New",23,0
+"24","ClamShoal210",870221,"87022","Small Mesh",210,"Clam Shoal","FAll_2010",4,30.5,32.8,27.4,36.6,NA,1,0,"Late Small","Late","New",24,0
+"25","ClamShoal210",897152,"89715","Open",210,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,0,0,"Late Small","Late","New",25,0
+"26","ClamShoal210",897152,"89715","Open",210,"Clam Shoal","FAll_2010",1,23.4,NA,NA,NA,NA,0,0,"Late Small","Late","New",26,0
+"27","ClamShoal210",880811,"88081","Large Mesh",210,"Clam Shoal","FAll_2010",13,28.4,33.7,33.8,8.7,9.8,1,0,"Late Small","Late","New",27,0
+"28","ClamShoal210",880811,"88081","Large Mesh",210,"Clam Shoal","Spring_2011",6,56.4,48.3,51.7,35.1,20.4,4,6,"Late Small","Late","New",28,1
+"29","ClamShoal210",870221,"87022","Small Mesh",210,"Clam Shoal","Spring_2011",6,49.7,61.5,46.7,29.1,15.9,5,0,"Late Small","Late","New",29,0
+"30","ClamShoal210",876121,"87612","Control",210,"Clam Shoal","Spring_2011",2,12.4,28.2,NA,NA,NA,1,0,"Late Small","Late","New",30,0
+"31","ClamShoal211",124851,"12485","Roof",211,"Clam Shoal","Spring_2011",10,39.9,58.8,56.3,39.4,50.2,2,3,"Shell","Early","New",31,1
+"32","ClamShoal211",136491,"13649","Large Mesh",211,"Clam Shoal","FAll_2010",22,25.1,13.6,29,17.8,21.4,1,0,"Shell","Early","New",32,0
+"33","ClamShoal211",123641,"12364","Open",211,"Clam Shoal","FAll_2010",6,26,26.1,24.9,20,21.9,2,0,"Shell","Early","New",33,0
+"34","ClamShoal211",134221,"13422","Control",211,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,1,1,"Shell","Early","New",34,1
+"35","ClamShoal211",136481,"13648","Large Mesh",211,"Clam Shoal","Spring_2011",2,26,15.1,NA,NA,NA,5,1,"Shell","Early","New",35,1
+"36","ClamShoal211",123641,"12364","Open",211,"Clam Shoal","Spring_2011",1,24.7,NA,NA,NA,NA,0,0,"Shell","Early","New",36,0
+"37","ClamShoal211",134221,"13422","Control",211,"Clam Shoal","FAll_2010",19,24.4,31.6,35.9,19.7,17.2,1,0,"Shell","Early","New",37,0
+"38","ClamShoal211",146011,"14601","Small Mesh",211,"Clam Shoal","FAll_2010",15,16.1,16.7,18.4,15,14.4,2,3,"Shell","Early","New",38,1
+"39","ClamShoal211",124851,"12485","Roof",211,"Clam Shoal","FAll_2010",35,43.1,30.3,34,28.4,24.6,1,0,"Shell","Early","New",39,0
+"40","ClamShoal211",146011,"14601","Small Mesh",211,"Clam Shoal","Spring_2011",3,22.3,34.9,32.3,NA,NA,3,5,"Shell","Early","New",40,1
+"41","ClamShoal213",136611,"13661","Small Mesh",213,"Clam Shoal","FAll_2010",11,28.2,32.4,40.4,26.5,14.6,8,0,"Early seed","Early","New",41,0
+"42","ClamShoal213",136611,"13661","Small Mesh",213,"Clam Shoal","Spring_2011",1,68.3,NA,NA,NA,NA,20,0,"Early seed","Early","New",42,0
+"43","ClamShoal213",136089,"13608","Open",213,"Clam Shoal","FAll_2010",11,18.9,17.8,33.4,20.7,23.5,0,0,"Early seed","Early","New",43,0
+"44","ClamShoal213",137341,"13734","Large Mesh",213,"Clam Shoal","FAll_2010",7,30,46.4,26.6,18.8,21.9,3,0,"Early seed","Early","New",44,0
+"45","ClamShoal213",136173,"13617","Control",213,"Clam Shoal","Spring_2011",8,48.5,46.9,34.4,46.7,42.8,3,0,"Early seed","Early","New",45,0
+"46","ClamShoal213",137341,"13734","Large Mesh",213,"Clam Shoal","Spring_2011",3,74.2,17.5,26,NA,NA,3,1,"Early seed","Early","New",46,1
+"47","ClamShoal213",136081,"13608","Open",213,"Clam Shoal","Spring_2011",10,57.7,29.8,58.4,62.4,65,2,0,"Early seed","Early","New",47,0
+"48","ClamShoal213",136174,"13617","Control",213,"Clam Shoal","FAll_2010",10,35,36.8,42.4,23.6,33.1,3,0,"Early seed","Early","New",48,0
+"49","ClamShoal213",120031,"12003","Roof",213,"Clam Shoal","FAll_2010",14,32.8,25.7,27.4,33.1,32.8,2,0,"Early seed","Early","New",49,0
+"50","ClamShoal213",120031,"12003","Roof",213,"Clam Shoal","Spring_2011",2,26,62.2,NA,NA,NA,3,0,"Early seed","Early","New",50,0
+"51","ClamShoal227",140646,"14064","Large Mesh",227,"Clam Shoal","FAll_2010",17,29.7,26.9,34.6,25.1,50.2,5,0,"Blank","Early","New",51,0
+"52","ClamShoal227",140938,"14093","Control",227,"Clam Shoal","FAll_2010",10,26.1,24.8,30.1,11.3,17.2,3,0,"Blank","Early","New",52,0
+"53","ClamShoal227",147321,"14732","Roof",227,"Clam Shoal","Spring_2011",10,52.2,34.2,29.8,28.6,24,5,4,"Blank","Early","New",53,1
+"54","ClamShoal227",124751,"12475","Small Mesh",227,"Clam Shoal","Spring_2011",2,61.6,21.3,NA,NA,NA,9,1,"Blank","Early","New",54,1
+"55","ClamShoal227",124751,"12475","Small Mesh",227,"Clam Shoal","FAll_2010",9,21.6,13.5,35.7,28.4,32.7,4,0,"Blank","Early","New",55,0
+"56","ClamShoal227",147323,"14732","Roof",227,"Clam Shoal","FAll_2010",7,14.1,21,25.7,21.7,20.6,0,0,"Blank","Early","New",56,0
+"57","ClamShoal227",140931,"14093","Open",227,"Clam Shoal","Spring_2011",9,46,32.7,33.3,30.3,41,9,0,"Blank","Early","New",57,0
+"58","ClamShoal227",140642,"14064","Large Mesh",227,"Clam Shoal","Spring_2011",5,34.5,52.3,20.5,48.1,26.2,10,0,"Blank","Early","New",58,0
+"59","ClamShoal227",130331,"13033","Open",227,"Clam Shoal","FAll_2010",16,27.1,19.3,16.6,27.1,37.1,0,0,"Blank","Early","New",59,0
+"60","ClamShoal228",124661,"12466","Open",228,"Clam Shoal","Spring_2011",5,64.7,51.2,51.7,21.3,42.5,1,2,"Shell","Early","New",60,1
+"61","ClamShoal228",130937,"13093","Roof",228,"Clam Shoal","Spring_2011",8,50.6,53.3,52.4,44.6,35.9,6,7,"Shell","Early","New",61,1
+"62","ClamShoal228",146456,"14645","Large Mesh",228,"Clam Shoal","Spring_2011",4,41,45.1,64.8,47.5,22.1,12,4,"Shell","Early","New",62,1
+"63","ClamShoal228",148561,"14856","Control",228,"Clam Shoal","Spring_2011",7,36.7,44.8,31.3,45,28.3,3,0,"Shell","Early","New",63,0
+"64","ClamShoal228",144101,"14410","Small Mesh",228,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,8,4,"Shell","Early","New",64,1
+"65","ClamShoal229",124011,"12401","Small Mesh",229,"Clam Shoal","FAll_2010",19,37.5,38.4,37.6,21.6,15.6,1,0,"Early seed","Early","New",65,0
+"66","ClamShoal229",155381,"15538","Roof",229,"Clam Shoal","FAll_2010",9,32.9,37.6,42.6,36.8,35.6,0,0,"Early seed","Early","New",66,0
+"67","ClamShoal229",137121,"13712","Large Mesh",229,"Clam Shoal","Spring_2011",6,28.8,40.9,15,14.8,32.3,7,0,"Early seed","Early","New",67,0
+"68","ClamShoal229",126131,"12613","Open",229,"Clam Shoal","FAll_2010",15,37.1,27.5,21.8,19.9,22.4,1,0,"Early seed","Early","New",68,0
+"69","ClamShoal229",126132,"12613","Open",229,"Clam Shoal","Spring_2011",3,48.3,34.8,29.7,34.5,40.2,2,0,"Early seed","Early","New",69,0
+"70","ClamShoal229",137121,"13712","Large Mesh",229,"Clam Shoal","FAll_2010",19,21.8,20.6,13.3,19.2,17.2,0,0,"Early seed","Early","New",70,0
+"71","ClamShoal229",124011,"12401","Small Mesh",229,"Clam Shoal","Spring_2011",10,61,53.4,50.7,55.8,60.1,12,1,"Early seed","Early","New",71,1
+"72","ClamShoal229",147212,"14721","Control",229,"Clam Shoal","Spring_2011",11,54.1,68.8,45.3,44,54.1,9,0,"Early seed","Early","New",72,0
+"73","ClamShoal229",147212,"14721","Control",229,"Clam Shoal","FAll_2010",8,35.7,38,36.5,27.6,34.1,6,6,"Early seed","Early","New",73,1
+"74","ClamShoal229",155381,"15538","Roof",229,"Clam Shoal","Spring_2011",5,60.9,44.2,60,42.9,33.7,4,3,"Early seed","Early","New",74,1
+"75","ClamShoal230",121131,"12113","Small Mesh",230,"Clam Shoal","FAll_2010",18,18.6,23.4,23.2,17.2,17.8,0,0,"Late Large","Late","New",75,0
+"76","ClamShoal230",121131,"12113","Small Mesh",230,"Clam Shoal","Spring_2011",8,53.9,52.9,32.9,45.2,49.6,8,1,"Late Large","Late","New",76,1
+"77","ClamShoal230",148561,"14856","Control",230,"Clam Shoal","FAll_2010",15,40.3,32.2,32.2,33.9,23.4,1,0,"Late Large","Late","New",77,0
+"78","ClamShoal230",117981,"11798","Large Mesh",230,"Clam Shoal","FAll_2010",20,26.3,21.9,25.2,14.1,12.5,2,0,"Late Large","Late","New",78,0
+"79","ClamShoal230",133741,"13374","Roof",230,"Clam Shoal","Spring_2011",3,36.6,30.7,48.5,NA,NA,0,0,"Late Large","Late","New",79,0
+"80","ClamShoal230",124111,"12411","Open",230,"Clam Shoal","Spring_2011",3,18.6,47,17.2,NA,NA,0,1,"Late Large","Late","New",80,1
+"81","ClamShoal230",122331,"12233","Control",230,"Clam Shoal","Spring_2011",3,24,16.8,21.6,NA,NA,2,0,"Late Large","Late","New",81,0
+"82","ClamShoal230",133741,"13374","Roof",230,"Clam Shoal","FAll_2010",11,22.1,30.8,22.7,18.9,10.6,0,0,"Late Large","Late","New",82,0
+"83","ClamShoal230",130931,"13093","Roof",230,"Clam Shoal","FAll_2010",21,29.3,23.5,47.7,37.3,25.4,2,0,"Late Large","Late","New",83,0
+"84","ClamShoal230",124111,"12411","Open",230,"Clam Shoal","FAll_2010",2,15.2,15.3,NA,NA,NA,1,0,"Late Large","Late","New",84,0
+"85","ClamShoal230",146451,"14645","Large Mesh",230,"Clam Shoal","FAll_2010",16,40.9,44,28.6,36.6,33.8,6,1,"Late Large","Late","New",85,1
+"86","ClamShoal230",144101,"14410","Small Mesh",230,"Clam Shoal","FAll_2010",3,10.1,24.2,26,NA,NA,2,0,"Late Large","Late","New",86,0
+"87","ClamShoal230",124661,"12466","Open",230,"Clam Shoal","FAll_2010",6,47.3,41.3,43.5,41.5,19.6,2,0,"Late Large","Late","New",87,0
+"88","ClamShoal230",117981,"11798","Large Mesh",230,"Clam Shoal","Spring_2011",4,30.4,39.2,23.7,41.9,NA,2,0,"Late Large","Late","New",88,0
+"89","ClamShoal230",122331,"12233","Control",230,"Clam Shoal","FAll_2010",7,16.3,9.8,11.7,11.7,21.2,1,0,"Late Large","Late","New",89,0
+"90","ClamShoal231",124359,"12435","Control",231,"Clam Shoal","Spring_2011",7,34.6,48.2,44.2,39.9,26.6,10,3,"Blank","Early","New",90,1
+"91","ClamShoal231",135962,"13596","Large Mesh",231,"Clam Shoal","Spring_2011",11,27,30.9,29.7,15.6,57.8,1,1,"Blank","Early","New",91,1
+"92","ClamShoal231",124353,"12435","Control",231,"Clam Shoal","FAll_2010",10,32.4,34.4,37.9,38.5,31.7,0,0,"Blank","Early","New",92,0
+"93","ClamShoal231",149171,"14917","Open",231,"Clam Shoal","FAll_2010",24,24.3,34.2,38,30.7,17.4,0,0,"Blank","Early","New",93,0
+"94","ClamShoal231",127831,"12783","Small Mesh",231,"Clam Shoal","Spring_2011",9,34.3,62.9,64,41.3,32.1,5,1,"Blank","Early","New",94,1
+"95","ClamShoal231",153491,"15349","Roof",231,"Clam Shoal","FAll_2010",1,46,NA,NA,NA,NA,1,0,"Blank","Early","New",95,0
+"96","ClamShoal231",127832,"12783","Small Mesh",231,"Clam Shoal","FAll_2010",11,21.6,24.8,14.8,25.5,14.7,0,0,"Blank","Early","New",96,0
+"97","ClamShoal32",130291,"13029","Large Mesh",32,"Clam Shoal","FAll_2010",4,11.5,21,15.6,11.8,NA,3,2,"Old","Early","Old",97,1
+"98","ClamShoal32",129071,"12907","Roof",32,"Clam Shoal","FAll_2010",2,20.5,16.8,NA,NA,NA,4,2,"Old","Early","Old",98,1
+"99","ClamShoal32",128691,"12869","Open",32,"Clam Shoal","Spring_2011",1,17.5,NA,NA,NA,NA,0,2,"Old","Early","Old",99,1
+"100","ClamShoal32",130291,"13029","Large Mesh",32,"Clam Shoal","Spring_2011",2,12.7,28,NA,NA,NA,10,24,"Old","Early","Old",100,1
+"101","ClamShoal32",137951,"13795","Small Mesh",32,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,20,18,"Old","Early","Old",101,1
+"102","ClamShoal32",116871,"11687","Control",32,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,3,0,"Old","Early","Old",102,0
+"103","ClamShoal32",137951,"13795","Small Mesh",32,"Clam Shoal","FAll_2010",0,NA,NA,NA,NA,NA,19,3,"Old","Early","Old",103,1
+"104","ClamShoal32",128691,"12869","Open",32,"Clam Shoal","FAll_2010",1,14.2,NA,NA,NA,NA,0,0,"Old","Early","Old",104,0
+"105","ClamShoal32",116871,"11687","Control",32,"Clam Shoal","FAll_2010",2,10.9,9.2,NA,NA,NA,3,0,"Old","Early","Old",105,0
+"106","ClamShoal33",147391,"14739","Large Mesh",33,"Clam Shoal","FAll_2010",2,22.1,18.6,NA,NA,NA,8,3,"Old","Early","Old",106,1
+"107","ClamShoal33",148992,"14899","Open",33,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,5,1,"Old","Early","Old",107,1
+"108","ClamShoal33",124131,"12413","Small Mesh",33,"Clam Shoal","FAll_2010",0,NA,NA,NA,NA,NA,10,0,"Old","Early","Old",108,0
+"109","ClamShoal33",143762,"14376","Control",33,"Clam Shoal","FAll_2010",2,11.2,15.3,NA,NA,NA,5,0,"Old","Early","Old",109,0
+"110","ClamShoal33",143761,"14376","Control",33,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,3,3,"Old","Early","Old",110,1
+"111","ClamShoal33",142351,"14235","Roof",33,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,7,7,"Old","Early","Old",111,1
+"112","ClamShoal33",142351,"14235","Roof",33,"Clam Shoal","FAll_2010",0,NA,NA,NA,NA,NA,0,0,"Old","Early","Old",112,0
+"113","ClamShoal33",147391,"14739","Large Mesh",33,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,13,11,"Old","Early","Old",113,1
+"114","ClamShoal33",124131,"12413","Small Mesh",33,"Clam Shoal","Spring_2011",0,NA,NA,NA,NA,NA,24,7,"Old","Early","Old",114,1
+"115","ClamShoal33",148991,"14899","Open",33,"Clam Shoal","FAll_2010",0,NA,NA,NA,NA,NA,0,0,"Old","Early","Old",115,0
